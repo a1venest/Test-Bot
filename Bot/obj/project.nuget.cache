@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yspYOccxRmpZ0XSLyjO9z2H8AP/OctMDHBIqcXgS34Rge3mhd3Weas85gHp2Ctolx/V+GGp8uZRKmapkxGjV5g==",
+  "dgSpecHash": "fUscVyHk3NjVYxV+LlIsK337Y+jSOWDIM/2JN79CgWLEJACkzMUxPsSdFfnbo+wPmUNKC92siC7X0aprM6jB3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aivi\\OneDrive\\Рабочий стол\\OMGTestBot\\Bot\\Bot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Aivi\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Aivi\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
