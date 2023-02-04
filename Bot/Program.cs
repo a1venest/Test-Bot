@@ -1,6 +1,6 @@
 ﻿using Telegram.Bot;
 
-string token = "TOKEN";
+string token = "5637986180:AAHQ_sAH3OfgyyanBUFAfa8tiyqhe650vaA";
 var client = new TelegramBotClient(token);
 
 string GetAnswer(string msg)
